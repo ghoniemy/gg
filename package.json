@@ -1,0 +1,8 @@
+{
+  "name": "speakmate-ai",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A voice-first English practice tutor with optional Gemini AI integration",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
